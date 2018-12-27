@@ -94,7 +94,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Machine Learning (Aula 7) - Modelos de Predição](https://www.youtube.com/watch?v=2vRUdnQ1X74&t=278s)
 - [Machine Learning em Português (Aula 8) - Modelo de Classificação de Íris Parte 1](https://www.youtube.com/watch?v=WRQmC8QU_YU)
 
-# Machine learning superviosionado
+# Machine learning supervisionado
 
 ## Árvore de decisão
 
